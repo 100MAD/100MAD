@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm Mohammad.<br>I study CE@IUT <br>༼ つ ◕_◕ ༽つ i'm currently working on webapp backend Development and webapp security.<br>(⌐■_■) i'm currently learning about webapp Vulnerabilities(owasp) and ComputerNetworks.<br>¯\_(ツ)_/¯  i'm looking to collaborate on BugHunting tools.
+Hi, i'm Mohammad.<br>I study CE@IUT <br>༼ つ ◕_◕ ༽つ    i'm currently working on webapp backend Development and webapp security.<br>(⌐■_■)    i'm currently learning about webapp Vulnerabilities(owasp) and ComputerNetworks.<br>¯\_(ツ)_/¯     i'm looking to collaborate on BugHunting tools.
 
 
 ## 🌐 Socials:
