@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, i'm Mohammad.<br>I study CE@IUT <br>༼ つ ◕_◕ ༽つ    i'm currently working on webapp backend Development and webapp security.<br>(⌐■_■)    i'm currently learning about webapp Vulnerabilities(owasp) and ComputerNetworks.<br>¯\_(ツ)_/¯     i'm looking to collaborate on BugHunting tools.
-
+Hi, i'm Mohammad.<br>I study EE@IUT <br>༼ つ ◕_◕ ༽つ    
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-mortezapour-084936219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mmdmr2002) 
